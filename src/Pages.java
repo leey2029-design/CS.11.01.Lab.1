@@ -12,3 +12,4 @@ public class Pages {
         System.out.println("Your are " + age + " so you should read at least " + pagesToRead + " pages before you give up. gl");
     }
 }
+.
